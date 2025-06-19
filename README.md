@@ -1,6 +1,7 @@
 # 信用卡欺诈检测系统
 
 该项目实现了一个完整的信用卡欺诈检测系统，使用机器学习方法来识别可疑的欺诈交易。
+![数据集下载地址](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## 项目结构
 
